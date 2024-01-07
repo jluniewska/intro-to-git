@@ -3,3 +3,5 @@
 #Staging Area
 
 #Git Repository
+
+#Branches
